@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Day3_11",
+            "request": "launch",
+            "mainClass": "Day3_11",
+            "projectName": "Day3_95859978"
+        },
+        {
+            "type": "java",
+            "name": "Day3_9",
+            "request": "launch",
+            "mainClass": "Day3.Day3_9",
+            "projectName": "Day3_95859978"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
